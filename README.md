@@ -6,4 +6,4 @@
 # Instruments
 
 ![logo c++](https://icons8.com/icon/40669/c%2B%2B)
-![logo win]([https://icons8.com/icon/40669/c%2B%2B](https://icons8.com/icon/108792/windows-10))
+![logo win]([[https://icons8.com/icon/40669/c%2B%2B](https://icons8.com/icon/108792/windows-10)](https://icons8.com/icon/108792/windows-10))
